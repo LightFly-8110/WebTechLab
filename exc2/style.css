@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.cv {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.header p {
+  margin-top: 5px;
+}
+
+.contact {
+  margin-top: 20px;
+}
+
+.contact li {
+  list-style: none;
+}
+
+.summary, .education, .experience, .skills {
+  margin-top: 20px;
+}
+
+.summary h2
