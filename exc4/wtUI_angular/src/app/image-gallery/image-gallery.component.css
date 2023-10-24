@@ -1,0 +1,15 @@
+.gallery {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .image-container {
+    text-align: center;
+  }
+  
+  .image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
